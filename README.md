@@ -233,7 +233,7 @@ int main()
     strcpy(key, "Monopoly");
     printf("Key text: %s\n", key);
 
-    strcpy(str, "preethi");
+    strcpy(str, "vincy");
     printf("Plain text: %s\n", str);
 
     encryptByPlayfairCipher(str, key);
@@ -248,7 +248,7 @@ int main()
 ```
 
 ## OUTPUT
-<img width="314" height="150" alt="image" src="https://github.com/user-attachments/assets/ce11aff5-a92d-4086-bcc7-32d47b4f0042" />
+<img width="400" height="203" alt="image" src="https://github.com/user-attachments/assets/e47cf994-6764-49a9-a9c7-58371516d1b7" />
 
 ## RESULT
 The program implementing the PlayFair cipher for encryption and decryption has been successfully executed, and the results have been verified
